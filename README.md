@@ -22,25 +22,33 @@ Below are a few examples of auto-scaling plots to accomodate errant space occupi
 
 ### Axis extending too far horizontally
 Before:
-![horiz-overshoot-before.png](readme-images/horiz-overshoot-before.png)
+
+![horiz-overshoot-before.png](readme-images/horiz-overshoot-before.png =320x240)
+
 After:
-![horiz-overshoot-before.png](readme-images/horiz-overshoot-after.png)
+
+![horiz-overshoot-before.png](readme-images/horiz-overshoot-after.png =320x240)
 
 ### Axis extending too far vertically
 Before:
-![vert-overshoot-before.png](readme-images/vert-overshoot-before.png)
+
+![vert-overshoot-before.png](readme-images/vert-overshoot-before.png =320x240)
+
 After:
-![vert-overshoot-before.png](readme-images/vert-overshoot-after.png)
+
+![vert-overshoot-before.png](readme-images/vert-overshoot-after.png =320x240)
 
 ### Axes overlapping horizontally
 Before:
-![vert-overshoot-before.png](readme-images/horiz-overlap-before.png)
+
+![vert-overshoot-before.png](readme-images/horiz-overlap-before.png =320x240)
+
 After:
-![vert-overshoot-before.png](readme-images/horiz-overlap-after.png)
+![vert-overshoot-before.png](readme-images/horiz-overlap-after.png =320x240)
 
 ### Axes overlapping vertically
 Before:
-![vert-overshoot-before.png](readme-images/vert-overlap-before.png)
+![vert-overshoot-before.png](readme-images/vert-overlap-before.png =320x240)
 After:
-![vert-overshoot-before.png](readme-images/vert-overlap-after.png)
+![vert-overshoot-before.png](readme-images/vert-overlap-after.png =320x240)
 
