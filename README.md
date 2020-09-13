@@ -23,11 +23,11 @@ Below are a few examples of auto-scaling plots to accomodate errant space occupi
 ### Axis extending too far horizontally
 Before:
 
-![horiz-overshoot-before.png](readme-images/horiz-overshoot-before.png =320x240)
+![horiz-overshoot-before.png](readme-images/horiz-overshoot-before.png)
 
 After:
 
-![horiz-overshoot-before.png](readme-images/horiz-overshoot-after.png =320x240)
+![horiz-overshoot-before.png](readme-images/horiz-overshoot-after.png)
 
 ### Axis extending too far vertically
 Before:
